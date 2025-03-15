@@ -28,8 +28,8 @@ const Projects = () => {
     },
     {
       id: 3,
-      title: "Book E-Commerce Website",
-      description: "Built a full-stack e-commerce platform for selling books, featuring user authentication, payment gateway integration, and a recommendation system. Integrated Google Authentication, enhancing security by 60%. Developed a personalized book recommendation system using user behavior data.",
+      title: " E-Commerce Website",
+      description: "Built a full-stack e-commerce platform for selling electronics, featuring user authentication, payment gateway integration, and a recommendation system. Integrated Google Authentication, enhancing security by 60%. Developed a personalized product recommendation system using user behavior data.
       image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
       technologies: ["MERN Stack", "Authentication", "Payment Integration", "React.js", "Node.js", "MongoDB", "Firebase", "Stripe API", "Tailwind CSS"],
       liveLink: "https://main--bharatecomarse.netlify.app/",
