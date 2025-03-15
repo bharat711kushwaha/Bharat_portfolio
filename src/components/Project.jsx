@@ -13,7 +13,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
       technologies: ["MERN Stack", "NLP", "AI", "Web Crawlers", "MongoDB", "Express.js", "React.js", "Node.js", "OpenAI API", "Selenium", "TensorFlow", "Firebase"],
       liveLink: "https://iiit-nr.vercel.app/",
-      githubLink: "#",
+      githubLink: "https://github.com/bharat711kushwaha/Bharat_portfolio",
       category: "ai"
     },
     {
@@ -23,17 +23,17 @@ const Projects = () => {
       image: "https://appinventiv.com/wp-content/uploads/2021/08/firebase-chat-app.png",
       technologies: ["MERN Stack", "WebSockets", "Authentication", "MongoDB", "Express.js", "React.js", "Node.js", "JWT", "Socket.io", "Tailwind CSS"],
       liveLink: "https://chit-chat-r5e3.onrender.com",
-      githubLink: "#",
+      githubLink: "https://github.com/bharat711kushwaha/Bharat_portfolio",
       category: "web"
     },
     {
       id: 3,
       title: " E-Commerce Website",
       description: "Built a full-stack e-commerce platform for selling electronics, featuring user authentication, payment gateway integration, and a recommendation system. Integrated Google Authentication, enhancing security by 60%. Developed a personalized product recommendation system using user behavior data.
-      image: "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+      image: "https://png.pngtree.com/png-clipart/20200406/ourmid/pngtree-business-concept-of-online-shopping-e-commerce-png-image_2174632.jpg",
       technologies: ["MERN Stack", "Authentication", "Payment Integration", "React.js", "Node.js", "MongoDB", "Firebase", "Stripe API", "Tailwind CSS"],
       liveLink: "https://main--bharatecomarse.netlify.app/",
-      githubLink: "#",
+      githubLink: "https://github.com/bharat711kushwaha/Bharat_portfolio",
       category: "web"
     },
     {
@@ -43,7 +43,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
       technologies: ["MERN Stack", "Authentication", "Image Upload", "React.js", "Node.js", "MongoDB", "Express.js"],
       liveLink: "#",
-      githubLink: "#",
+      githubLink: "https://github.com/bharat711kushwaha/Bharat_portfolio",
       category: "web"
     }
   ];
